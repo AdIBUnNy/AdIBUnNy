@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/aditya bankar" target="blank"><img src="https://img.shields.io/twitter/follow/aditya bankar?logo=twitter&style=for-the-badge" alt="aditya bankar" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Deep Learning Projects**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
