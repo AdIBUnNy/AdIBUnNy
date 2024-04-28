@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 🤝 I’m looking for help with **Machine Learning , Deep Learning and Data Sciencei**
+- 🤝 I’m looking for help with **Machine Learning , Deep Learning and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdIBUnNy](https://github.com/AdIBUnNy)
 
