@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **Deep Learning projects and strengthening programming fundamentals**
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
-- 🤝 I’m looking for help with **Machine Learning, Deep Learning, and Data Science**
 - 👨‍💻 All of my projects are available at [https://github.com/AdIBUnNy](https://github.com/AdIBUnNy)
 - 💬 Ask me about **Python, C++, Machine Learning, Deep Learning**
 - 📫 How to reach me **adityabankar262002@gmail.com**
@@ -41,14 +40,4 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adibunny&show_icons=true&locale=en&layout=compact" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adibunny&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adibunny" />
-</p>
